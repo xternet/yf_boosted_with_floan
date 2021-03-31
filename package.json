@@ -1,5 +1,5 @@
 {
-  "name": "Leveraged Yield Farming",
+  "name": "leveraged_yield_farming",
   "description": "Yield Farming on Compound boosted with dYdX flash loan",
   "version": "0.1.0",
   "author": "github.com/xternet",
