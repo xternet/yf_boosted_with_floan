@@ -1,7 +1,7 @@
 # Yield Farming on Compound boosted with dYdX flash loan
 
 ## 📃 Instructions to run
-#### 0. **Install dependencies in project directory(working with node v12.10.)**
+#### 0. **Install dependencies in project directory (works with node v12.10.0)**
 ```
 npm i
 ```
